@@ -1,38 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<key>items</key>
-<array>
-<dict>
-<key>assets</key>
-<array>
-<dict>
-<key>kind</key>
-<string>software-package</string>
-<key>url</key>
-<string>https://wx.roco.cn/scrmfile/orifile/scrmprod/instalprogram/scrmm_H559050AD_0311191351.ipa</string>
-</dict>
-<dict>
-<key>kind</key>
-<string>display-image</string>
-<key>needs-shine</key>
-<false/>
-<key>url</key>
-<string>https://wx.roco.cn/scrmfile/scrmtest/2021/3/15/6cfc7a38-25ed-4290-bb9b-5ec86969a2d6.png</string>
-</dict>
-</array>
-<key>metadata</key>
-<dict>
-      <key>bundle-version</key>
-     <string>1.0.0</string>
-<key>kind</key>
-<string>software</string>
-<key>bundle-identifier</key>
-<string>plus.H559050AD</string>
-
-<key>title</key>
-<string>劳卡门店</string>
-</dict>
-</dict>
-</array>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://bdpkg.aliyun.dcloud.net.cn/20210316/104128e0-860d-11eb-ad76-e530b73b40d9/Pandora.ipa?OSSAccessKeyId=Zo5iOEuapwrloQIL&amp;Expires=1615874427&amp;Signature=e%2FpaWbwORoxRsojPa1hT2nCasWY%3D</string>
+				</dict>
+			       <dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://vkceyugu.cdn.bspapp.com/VKCEYUGU-dc-site/56f085e0-bcfe-11ea-b244-a9f5e5565f30.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>kind</key>
+				<string>software</string>
+				<key>bundle-identifier</key>
+				<string>plus.H559050AD</string>
+				<key>title</key>
+				<string>HBuilder手机应用</string>
+			</dict>
+		</dict>
+	</array>
 </dict>
 </plist>
